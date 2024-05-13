@@ -1,0 +1,143 @@
+[
+    {
+      "productId": 1,
+      "productName": "Smartphone",
+      "productDescription": "A high-performance smartphone with advanced features.",
+      "productPrice": 499.99,
+      "productCategory": "Electronics"
+    },
+    {
+      "productId": 2,
+      "productName": "Laptop",
+      "productDescription": "A powerful laptop for work and entertainment.",
+      "productPrice": 899.99,
+      "productCategory": "Electronics"
+    },
+    {
+      "productId": 3,
+      "productName": "Headphones",
+      "productDescription": "High-quality headphones for immersive audio experience.",
+      "productPrice": 99.99,
+      "productCategory": "Electronics"
+    },
+    {
+      "productId": 4,
+      "productName": "Running Shoes",
+      "productDescription": "Comfortable and durable running shoes for athletes.",
+      "productPrice": 79.99,
+      "productCategory": "Sporting Goods"
+    },
+    {
+      "productId": 5,
+      "productName": "Backpack",
+      "productDescription": "Spacious backpack with multiple compartments for storage.",
+      "productPrice": 49.99,
+      "productCategory": "Travel"
+    },
+    {
+      "productId": 6,
+      "productName": "Desk Chair",
+      "productDescription": "Ergonomic desk chair with adjustable features for comfort.",
+      "productPrice": 129.99,
+      "productCategory": "Furniture"
+    },
+    {
+      "productId": 7,
+      "productName": "Coffee Maker",
+      "productDescription": "A programmable coffee maker for brewing delicious coffee at home.",
+      "productPrice": 39.99,
+      "productCategory": "Home & Kitchen"
+    },
+    {
+      "productId": 8,
+      "productName": "Smartwatch",
+      "productDescription": "A stylish smartwatch with fitness tracking and notification features.",
+      "productPrice": 149.99,
+      "productCategory": "Electronics"
+    },
+    {
+      "productId": 9,
+      "productName": "Dumbbell Set",
+      "productDescription": "A set of dumbbells for strength training exercises.",
+      "productPrice": 59.99,
+      "productCategory": "Fitness"
+    },
+    {
+      "productId": 10,
+      "productName": "Yoga Mat",
+      "productDescription": "A non-slip yoga mat for practicing yoga and meditation.",
+      "productPrice": 29.99,
+      "productCategory": "Fitness"
+    },
+    {
+      "productId": 11,
+      "productName": "Gaming Console",
+      "productDescription": "The latest gaming console for immersive gaming experiences.",
+      "productPrice": 399.99,
+      "productCategory": "Electronics"
+    },
+    {
+      "productId": 12,
+      "productName": "Bluetooth Speaker",
+      "productDescription": "Portable Bluetooth speaker for enjoying music on the go.",
+      "productPrice": 69.99,
+      "productCategory": "Electronics"
+    },
+    {
+      "productId": 13,
+      "productName": "Tennis Racket",
+      "productDescription": "A lightweight tennis racket for playing tennis.",
+      "productPrice": 89.99,
+      "productCategory": "Sporting Goods"
+    },
+    {
+      "productId": 14,
+      "productName": "Sunglasses",
+      "productDescription": "Stylish sunglasses with UV protection for outdoor activities.",
+      "productPrice": 29.99,
+      "productCategory": "Fashion"
+    },
+    {
+      "productId": 15,
+      "productName": "Camping Tent",
+      "productDescription": "A spacious camping tent for outdoor adventures.",
+      "productPrice": 149.99,
+      "productCategory": "Outdoor"
+    },
+    {
+      "productId": 16,
+      "productName": "Wireless Mouse",
+      "productDescription": "A wireless mouse for smooth and precise cursor control.",
+      "productPrice": 19.99,
+      "productCategory": "Electronics"
+    },
+    {
+      "productId": 17,
+      "productName": "E-book Reader",
+      "productDescription": "An e-book reader for reading digital books anywhere.",
+      "productPrice": 129.99,
+      "productCategory": "Electronics"
+    },
+    {
+      "productId": 18,
+      "productName": "Power Bank",
+      "productDescription": "A portable power bank for charging mobile devices on the go.",
+      "productPrice": 29.99,
+      "productCategory": "Electronics"
+    },
+    {
+      "productId": 19,
+      "productName": "Cookware Set",
+      "productDescription": "A set of high-quality cookware for cooking delicious meals.",
+      "productPrice": 149.99,
+      "productCategory": "Home & Kitchen"
+    },
+    {
+      "productId": 20,
+      "productName": "Wireless Earbuds",
+      "productDescription": "Wireless earbuds for listening to music and making calls wirelessly.",
+      "productPrice": 79.99,
+      "productCategory": "Electronics"
+    }
+  ]
+  
